@@ -1,10 +1,10 @@
-OFICINA VIRTUAL DE GESTIÓN ADMINISTRATIVA
+# OFICINA VIRTUAL DE GESTIÓN ADMINISTRATIVA
 
-DESCRIPCION:
-Oficina virtual de geestion y administarcion de un centro deportivo
+## DESCRIPCIÓN:
+Oficina virtual de gestión y administración de un centro deportivo.
 
-MEMORIA :
-file:///C:/Users/manul/Downloads/Lazaro_Velasco_Manuel_Memoria_ProyectoFinal_DAM24.docx.pdf
+## MEMORIA:
+[Descargar Memoria](./Lazaro_Velasco_Manuel_Memoria_ProyectoFinal_DAM24.docx.pdf)
 
-MANUAL DE USUARIO
-file:///C:/Users/manul/Downloads/Lazaro_Velasco_Manuel_Manual_ProyectoFinal_DAM24.docx.pdf
+## MANUAL DE USUARIO:
+[Descargar Manual de Usuario](./Lazaro_Velasco_Manuel_Manual_ProyectoFinal_DAM24.docx.pdf)
