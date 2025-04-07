@@ -1,3 +1,6 @@
+
+> README EN PROCESO 
+
 # 🏋️‍♂️ Oficina Virtual de Gestión Administrativa
 
 Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores y más. Una solución moderna y eficaz para digitalizar la administración interna.
@@ -32,7 +35,7 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 
 ## 🎬 Demo (GIF o vídeo)
 
-> Aquí puedes insertar un **gif** o una mini demo en vídeo para mostrar cómo funciona.
+> 
 
 ![demo-app](ruta/a/tu/gif_o_imagen.gif)
 
@@ -40,7 +43,7 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 
 ## 📸 Capturas de pantalla
 
-> Añade varias imágenes para mostrar las vistas principales.
+> 
 
 | Login | Dashboard | Gestión de usuarios |
 |-------|-----------|---------------------|
