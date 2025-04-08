@@ -32,18 +32,17 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 - 📊 Panel de administración con estadísticas
 
 ---
-
 ## 🎬 Demos de la Aplicación
 
 ### 👤 Vista del Usuario
 
-[▶️ Ver video](./media/demo_usuario.mp4)
+![Demo Usuario](./media/demo_usuario.gif)
 
 ---
 
 ### 👨‍💼 Vista del Empleado
 
-[▶️ Ver video](./media/demo_empleado.mp4)
+![Demo Empleado](./media/demo_empleado.gif)
 
 ---
 
