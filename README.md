@@ -33,11 +33,17 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 
 ---
 
-## 🎬 Demo (GIF o vídeo)
+## 🎬 Demos de la Aplicación
 
-> 
+### 👤 Vista del Usuario
 
-![demo-app](ruta/a/tu/gif_o_imagen.gif)
+[▶️ Ver video](./media/demo_usuario.mp4)
+
+---
+
+### 👨‍💼 Vista del Empleado
+
+[▶️ Ver video](./media/demo_empleado.mp4)
 
 ---
 
