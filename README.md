@@ -15,6 +15,7 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 - Entrenadores y horarios
 - Clases disponibles
 - Pagos y facturación
+- Gráficas dinámicas
 
 > Proyecto Final de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
@@ -24,12 +25,13 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 
 | Frontend | Backend | Base de Datos |
 |---------|---------|---------------|
-| Angular | Java, Spring Boot, Hibernate | MySQL |
+| Angular, Node.js | Java, Spring Boot, Hibernate | MySQL |
 
 - 🔐 Autenticación de usuarios
 - 📅 Gestión de horarios con calendarios interactivos
 - 💳 Control de pagos y suscripciones
 - 📊 Panel de administración con estadísticas
+- ⚙️ Graficas dinamicas con informacion de los usuarios
 
 ---
 ## 🎬 Demos de la Aplicación
@@ -43,16 +45,6 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 ### 👨‍💼 Vista del Empleado
 
 ![Demo Empleado](./media/demo_empleado.gif)
-
----
-
-## 📸 Capturas de pantalla
-
-> 
-
-| Login | Dashboard | Gestión de usuarios |
-|-------|-----------|---------------------|
-| ![login](ruta/a/login.png) | ![dashboard](ruta/a/dashboard.png) | ![usuarios](ruta/a/usuarios.png) |
 
 ---
 
