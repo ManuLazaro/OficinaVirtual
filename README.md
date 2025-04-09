@@ -5,6 +5,10 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 
 ---
 
+## 👨‍💻 Sobre el Autor
+
+<table> <tr> <td align="center" width="140"> <img src="https://avatars.githubusercontent.com/u/109770830?v=4" width="100" style="border-radius: 50%;" alt="Foto de perfil"/> </td> <td> <strong>Manuel Lázaro Velasco</strong> <br> 🧑‍💻 Desarrollador de Aplicaciones Multiplataforma <br> 📍 Aranda de Duero, Burgos <br> 📧 <a href="mailto:manulazaro2000@gmail.com">manulazaro2000@gmail.com</a> <br> 🔗 <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/">LinkedIn</a> </td> </tr> </table>
+
 ## 📌 Descripción
 
 **Oficina Virtual** es una aplicación diseñada para facilitar la administración de centros deportivos como gimnasios. Permite gestionar:
@@ -52,11 +56,6 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 - 🧾 [Manual de Usuario](./Lazaro_Velasco_Manuel_Manual_ProyectoFinal_DAM24.docx.pdf)
 
 ---
-✨ Sobre el Autor
-<table> <tr> <td align="center" width="140"> <img src="https://avatars.githubusercontent.com/u/109770830?v=4" width="100" style="border-radius: 50%;" alt="Foto de perfil"/> </td> <td> <strong>Manuel Lázaro Velasco</strong> <br> 🧑‍💻 Desarrollador de Aplicaciones Multiplataforma <br> 📍 Aranda de Duero, Burgos <br> 📧 <a href="mailto:manulazaro2000@gmail.com">manulazaro2000@gmail.com</a> <br> 🔗 <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/">LinkedIn</a> </td> </tr> </table>
-💬 Un poco sobre mí
-¡Hola! Soy Manuel, apasionado por el desarrollo de software y la creación de soluciones que realmente hagan la vida más fácil. Me gusta trabajar con tecnologías modernas como Angular y Spring Boot, siempre buscando escribir código limpio y bien estructurado. Este proyecto refleja mi interés en unir lo técnico con lo funcional, ayudando a digitalizar procesos reales, como la gestión de un centro deportivo.
-
 
 ## 🚀 Cómo ejecutar el proyecto
 
