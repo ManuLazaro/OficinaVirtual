@@ -7,7 +7,7 @@ Gestión completa para centros deportivos: usuarios, clases, pagos, entrenadores
 
 ## 👨‍💻 Sobre el Autor
 
-<table> <tr> <td align="center" width="140"> <img src="[https://avatars.githubusercontent.com/u/109770830?v=4](https://avatars.githubusercontent.com/u/122815200?s=400&u=32a30cf0a259bba4e7e50ded24be1e169c701f6c&v=4)" width="100" style="border-radius: 50%;" alt="Foto de perfil"/> </td> <td> <strong>Manuel Lázaro Velasco</strong> <br> 🧑‍💻 Desarrollador de Aplicaciones Multiplataforma <br> 📍 Aranda de Duero, Burgos <br> 📧 <a href="mailto:manulazaro2000@gmail.com">manulazaro2000@gmail.com</a> <br> 🔗 <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/">LinkedIn</a> </td> </tr> </table>
+<table> <tr> <td align="center" width="140"> <img src="[https://avatars.githubusercontent.com/u/109770830?v=4]" width="100" style="border-radius: 50%;" alt="Foto de perfil"/> </td> <td> <strong>Manuel Lázaro Velasco</strong> <br> 🧑‍💻 Desarrollador de Aplicaciones Multiplataforma <br> 📍 Aranda de Duero, Burgos <br> 📧 <a href="mailto:manulazaro2000@gmail.com">manulazaro2000@gmail.com</a> <br> 🔗 <a href="https://www.linkedin.com/in/manuel-l%C3%A1zaro-velasco-5501a6232/">LinkedIn</a> </td> </tr> </table>
 
 ## 📌 Descripción
 
